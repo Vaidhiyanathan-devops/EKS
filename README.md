@@ -1,4 +1,4 @@
-# EKS and MINIKUBE CLUSTER WITH TERRAFORM SCRIPT
+# EKS Terraform Script and MINIKUBE CLUSTER WITH Three-Tier Application 
 Project outputs
 
 EKS console outputs: 
